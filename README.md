@@ -1,11 +1,11 @@
-# -linear-regression
-LOGISTIC REGRESSION 
+# linear-regression
+## LOGISTIC REGRESSION 
 -The given script is an  alternative to a svm classification script used to classify hand written digits example dataset .
 
+## LINEAR REGRESSION
+linear regression1.c is linear regression using gradient descent
 
-
-CLASSIFICATION REPORTS
-
+## CLASSIFICATION REPORTS
 Classification report for classifier LogisticRegressionCV(Cs=10, class_weight=None, cv=5, dual=False,
            fit_intercept=True, intercept_scaling=1.0, max_iter=100,
            multi_class='ovr', n_jobs=4, penalty='l2', random_state=None,
@@ -64,5 +64,5 @@ Classification report for classifier LogisticRegressionCV(Cs=10, class_weight=No
     avg / total   0.97      0.97      0.97       899
 
 
-CONCLUSION
+## CONCLUSION
 as the results suggest svm is a better alternative to logistic regression.

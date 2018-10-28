@@ -1,4 +1,4 @@
-# linear-regression
+# regression
 ## LOGISTIC REGRESSION 
 -The given script is an  alternative to a svm classification script used to classify hand written digits example dataset .
 
